@@ -1,3 +1,3 @@
 # Rich
 Adventure 
-level cap 1000
+levels cap 1000
